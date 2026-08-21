@@ -1,5 +1,5 @@
 # Screen Rotate Tool（外挂）
-
+注意: 他可以破解Classin 的 forcemod （专注模式）
 > 作者：SongQuan  
 > 平台：Windows  
 > 类型：系统级屏幕控制工具 / 外挂  
@@ -61,8 +61,9 @@
 ---
 
 ### ⌨ 快捷键功能
-- ✔ **Ctrl + Alt + 0**
-  - 屏幕旋转 90°
+- ✔ **Ctrl + Alt + →**然后↑
+  ✔ **Ctrl + Alt + ↑**
+  - 屏幕旋转 90°（用于破解不要害怕）
   - 倒数计时
   - 自动回正
 
